@@ -10,7 +10,7 @@
 **Профессиональный инструмент для анализа криптовалютных фьючерсов в реальном времени.**  
 Анализ Order Book, Liquidity Walls, RSI, MACD, Bollinger Bands и запатентованный Confluence Score.
 
-[🚀 Запустить LIVE Демо](https://h1opok.github.io/KuCoin-/) | [📱 Telegram: @HlopokSU](https://t.me/HlopokSU)
+[🚀 Запустить LIVE Демо](https://h1opok.github.io/world-future-ultimate-scanner/) | [📱 Telegram: @HlopokSU](https://t.me/HlopokSU)
 
 </div>
 
@@ -68,9 +68,9 @@
 
 ## 🚀 Быстрый старт
 
-1. **Онлайн:** Просто откройте [LIVE Демо](https://h1opok.github.io/KuCoin-/). Установка не требуется.
+1. **Онлайн:** Просто откройте [LIVE Демо](https://h1opok.github.io/world-future-ultimate-scanner/). Установка не требуется.
 2. **Локально:** 
    ```bash
-   git clone https://github.com/h1opok/KuCoin-.git
+   git clone https://h1opok.github.io/world-future-ultimate-scanner.git
    cd KuCoin-
    # Откройте файл index.html в любом современном браузере
