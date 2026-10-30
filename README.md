@@ -23,7 +23,7 @@
   <br>
   <img src="https://github.com/h1opok/world-future-ultimate-scanner/blob/main/IMG_7288.jpeg" alt="Панель Order Book" width="100%">
     <br>
-  <img src="https://github.com/h1opok/world-future-ultimate-scanner/blob/main/IMG_7288.jpeg" alt="Панель Order Book" width="100%">
+  <img src="https://github.com/h1opok/world-future-ultimate-scanner/blob/main/IMG_7289.jpegIMG_7288.jpeg" alt="Панель Order Book" width="100%">
 </div>
 
 ---
