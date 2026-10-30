@@ -21,7 +21,7 @@
 *(💡 Рекомендация: Замените эти ссылки на реальные скриншоты вашего приложения, сделанные с телефона или ПК)*
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/0a0e1a/00ff88?text=Dashboard+%7C+Masterpiece+UI" alt="Главный экран сканера" width="100%">
+  <img src="https://github.com/h1opok/world-future-ultimate-scanner/blob/main/IMG_7286.jpeg" alt="Главный экран сканера" width="100%">
   <br>
   <img src="https://via.placeholder.com/800x400/0a0e1a/ffd700?text=Order+Book+%7C+Live+WebSocket" alt="Панель Order Book" width="100%">
 </div>
