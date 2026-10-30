@@ -72,7 +72,7 @@
 2. **Локально:** 
    ```bash
    git clone https://h1opok.github.io/world-future-ultimate-scanner.git
-   cd KuCoin-
+   cd world-future-ultimate-scanner
    # Откройте файл index.html в любом современном браузере
 
 
